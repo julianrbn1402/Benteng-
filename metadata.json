@@ -1,0 +1,5 @@
+{
+  "name": "Benteng!",
+  "description": "Aplikasi untuk menghitung volume dan jumlah rit material di area penambangan berdasarkan lebar dumping point dan tinggi jenjang.",
+  "requestFramePermissions": []
+}
